@@ -27,6 +27,10 @@ Built for humans, excuses, and humor.
 
 ## 📦 Installation
 
+📡 API Usage
+GET /no
+Returns a random rejection reason from the list.
+
 ```bash
 git clone https://github.com/yourusername/no-as-a-service.git
 cd no-as-a-service

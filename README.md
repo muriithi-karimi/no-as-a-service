@@ -9,26 +9,29 @@ Built for humans, excuses, and humor.
 
 ## 🛠️ Self-Hosting
 
-1. Clone this repository
+To run the API yourself,  It’s lightweight and pretty simple.
+
+
+### 1. Clone this repository
 
 ```
 git clone https://github.com/muriithi-karimi/no-as-a-service.git
 cd no-as-a-service
 ```
 
-2. Install dependencies
+### 2. Install dependencies
 
 ```
 npm install
 ```
 
-3. Start the server
+### 3. Start the server
 
 ```
 npm start
 ```
 
-The API will be live at:
+### The API will be live at:
 
 ```
 http://localhost:3000/no

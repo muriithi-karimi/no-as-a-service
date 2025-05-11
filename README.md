@@ -7,31 +7,35 @@ Built for humans, excuses, and humor.
 
 ---
 
-## 🚀 Features
+## 🛠️ Self-Hosting
 
-- 🔀 Returns a random rejection reason via API (`/no`)
-- ⚡ Rate-limited (120 requests/minute per IP)
-- 📦 Lightweight and easy to deploy
-- 😂 Designed for humor, excuses, or passive resistance
+1. Clone this repository
 
----
-
-## 🛠️ Tech Stack
-
-- Node.js + Express
-- express-rate-limit
-- JSON-based storage
-- Optional Cloudflare header support for IPs
-
----
-
-## 📦 Installation
-
-📡 API Usage
-GET /no
-Returns a random rejection reason from the list.
-
-```bash
-git clone https://github.com/yourusername/no-as-a-service.git
+```
+git clone https://github.com/muriithi-karimi/no-as-a-service.git
 cd no-as-a-service
+```
+
+2. Install dependencies
+
+```
 npm install
+```
+
+3. Start the server
+
+```
+npm start
+```
+
+The API will be live at:
+
+```
+http://localhost:3000/no
+```
+---
+##  👤 Author
+
+Created with creativity by [muriithi-karimi](https://github.com/muriithi-karimi)
+
+---

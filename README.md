@@ -36,6 +36,11 @@ npm start
 ```
 http://localhost:3000/no
 ```
+### To run the API on your editor:
+
+```
+code .
+```
 ---
 ##  👤 Author
 
